@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  time: 2012-06-13 23:21:20
+  speaker: MyString
+  title: MyString
+
+two:
+  time: 2012-06-13 23:21:20
+  speaker: MyString
+  title: MyString
